@@ -5,6 +5,10 @@ AgroVis is an ongoing project aimed at predicting crop yield based on various en
 ## Project Status
 This project is currently under development. Features and functionalities are being actively implemented and refined.
 
+## Dashboard
+![AgroVis Dashboard](ot/dashboard.jpg)
+![AgroVis Dashboard](ot/temp_trends.jpg)
+
 ## Features (Planned and Ongoing)
 - Data collection and preprocessing from historical agricultural records.
 - Machine learning models for yield prediction.
@@ -15,9 +19,6 @@ This project is currently under development. Features and functionalities are be
 - **Backend:** Django (Python)
 - **Data Processing & Analysis:** NumPy, pandas, Matplotlib, Seaborn
 - **Database:** PostreSQL
-
-## Dashboard
-![AgroVis Dashboard](ot/dashboard.jpg)
 
 ## License
 This project is under development, and licensing details will be finalized upon completion.
