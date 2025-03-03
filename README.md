@@ -22,7 +22,7 @@ This project is currently under development. Features and functionalities are be
 **Frontend:** JavaScript  
 **Database:** PostgreSQL
 
-## License
-This project is under development, and licensing details will be finalized upon completion.
+## 📜 License
+This project is licensed under the MIT License.
 
 
